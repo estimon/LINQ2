@@ -1,0 +1,7 @@
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.exe.config
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.exe
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.pdb
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.csprojResolveAssemblyReference.cache
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.csproj.CoreCompileInputs.cache
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.exe
+c:\users\martin ploompuu\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.pdb
